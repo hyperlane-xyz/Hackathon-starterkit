@@ -1,4 +1,3 @@
-# Hackathon-starterkit
 # Hyperlane Hackathon Starterkit
 
 This is your Hackathon Guide to help you deploy your app Interchain, using our Permissionless Interoperability tools to help you expand your ideas on how to make your app more chain rich. 
