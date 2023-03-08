@@ -1,4 +1,6 @@
 # Hyperlane Hackathon Starterkit
+![Twitter Banner](https://user-images.githubusercontent.com/44020788/223877593-66e6e885-9914-46a9-b50f-38811b220b56.png)
+
 
 This is your Hackathon Guide to help you deploy your app Interchain, using our Permissionless Interoperability tools to help you expand your ideas on how to make your app more chain rich. 
 
