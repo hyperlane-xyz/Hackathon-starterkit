@@ -77,10 +77,10 @@ $2k - Hyperlane Powered Scaling Infrastructure
 
 ## 🧑‍💻First time at Hackathon?
 
-Check out this amazing Survival guide by @francescoswiss to prepare yourself and set expectations for any Hackathon
+Check out this amazing Survival guide by [Francesco](https://twitter.com/francescoswiss) to prepare yourself and set expectations for any Hackathon
 [Ultimate Hackathon Survival Guide for 2023](https://dev.to/andreolf/ultimate-ethereum-hackathon-survival-guide-for-2023-149i)
 
-Starting with Ethereum development? Check out SpeedRunEthereum to help you kickstart the Ethereum journey [Speed Run Ethereum](https://speedrunethereum.com/)
+Starting with Ethereum development? Check out [Speed Run Ethereum](https://speedrunethereum.com/) to help you kickstart the Ethereum journey 
 
 Looking for diving into Crypto ecosystem ? Look no further, we compiled list for you [Crypto READ.ME](https://github.com/anettrolikova/Crypto/blob/master/README.md)
 
