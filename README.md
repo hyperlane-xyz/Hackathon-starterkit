@@ -16,7 +16,8 @@ To interact with Hyperlane contracts you can use any of the following libraries:
 - [Wagmi](https://wagmi.sh/)
 - [Hardhat](https://hardhat.org/)
 - [Foundry](https://getfoundry.sh/)
-These tools are useable for not only to interact with Hyperlane contracts but to interact with any Web3 app
+
+These tools can be used to not only interact with Hyperlane contracts but to interact with any Web3 app.
 
 ## 🖥️ Quickstart
 
