@@ -50,7 +50,7 @@ We have a set of helpful tools which you can easily integrate into your app and 
 
 ## 🏆 Hyperlane Bounties
 
-Submit your project via ETH Global to get chance to win our bounties 
+Available on behalf of Hyperlane supported Hackathons. Join our [Discord](https://discord.com/invite/hyperlane) to get more information if there's ongoing or upcoming hackathon for submitting your project and get a chance to win one of our Bounties!
 
 $4k - Best use of Permissionless Interoperability
 
