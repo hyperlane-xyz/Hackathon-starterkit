@@ -68,12 +68,11 @@ Available on behalf of Hyperlane supported Hackathons. Join our [Discord](https:
 - Leverage Warp Route’d assets in an app of your design
 - Use Warp Routes to create interchain NFTs or bridge existing collections
 
-**Hyperlane Powered Scaling Infrastructure**
-
-- Use Hyperlane to navigate between networks and create scalability focused infrastructure.
-- While there is no specific form these should take, here are some ideas:
-- Blockchain Smart Router. Imagine being able to route computation to the cheapest blockchain within the Hyperlane network, and then being able to retrieve or read that state whenever necessary from your home chain. Effectively turning any blockchain into your layer 2 and beyond.
-- For NFTs, you could create an interchain minting contract that acts as a load balancer between chains, i.e collecting orders on several chains (with lower fees or higher throughput) and executing the mint on a different chain.
+**Write new Interchain Security Modules (ISMs**
+    - Hyperlane’s Modular Security Stack is premised on a variety of available Interchain Security Modules that developers can use to secure how applications can communicate between chains. While a few ISM’s are already available, and more are in the works, the hackathon is a great opportunity to build new ones. Some suggestions for ISMs Hyperlane developers would like to see:
+        - An Optimistic ISM; this would implement an ISM that secures messages with an Optimistic system, in the mold of the Optics protocol, one that allows for a challenge period of some time, during which a fraud proof can be submitted by anyone. A successful submission will include the ISM itself, and any necessary offchain agent software such as the Watchtower and any Relayer changes.
+        - A Telepathy ISM; the newly released Telepathy client allows for interchain messaging from Ethereum secured by ZK-SNARKs. A Telepathy ISM would use the Telepathy client to secure outbound messages from Ethereum. A successful submission will include the ISM itself, and any necessary changes to the Relayer.
+        - A Native/Rollup Bridge ISM; this ISM would leverage the native bridge for a rollup, i.e. the native Optimism or Arbitrum bridges, to secure messaging. A successful submission will include the ISM itself, and any necessary changes to the Relayer.
 
 ## 🧑‍💻First time at Hackathon?
 
