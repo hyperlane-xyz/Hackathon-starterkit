@@ -52,14 +52,14 @@ We have a set of helpful tools which you can easily integrate into your app and 
 
 Available on behalf of Hyperlane supported Hackathons. Join our [Discord](https://discord.com/invite/hyperlane) to get more information if there's ongoing or upcoming hackathon for submitting your project and get a chance to win one of our Bounties!
 
-**Best use of Permissionless Interoperability
+**Best use of Permissionless Interoperability**
 
 - To qualify you simply need to deploy Hyperlane on a new blockchain or rollup.
 - How you utilize your newfound interoperability capabilities will dictate how likely you are to win the grand prize.
 - Examples would include deploying to your own rollup created via Celestia, Optimism, Polygon, or any rollup toolkit you’d like to use.
 - Permissionless Interoperability related submissions will be eligible for the other Hyperlane prizes
 
-**Best use of Hyperlane Warp Routes
+**Best use of Hyperlane Warp Routes**
 
 - Warp Routes are Hyperlane’s unique take on token bridging. Each Warp Route has its own security model, using Hyperlane’s Interchain Security Modules. Most importantly, Warp Routes are completely permissionless. You can now bring any asset to any chain.
 - To qualify for this prize you simply need to use Warp Routes in your submission.
@@ -68,7 +68,7 @@ Available on behalf of Hyperlane supported Hackathons. Join our [Discord](https:
 - Leverage Warp Route’d assets in an app of your design
 - Use Warp Routes to create interchain NFTs or bridge existing collections
 
-**Hyperlane Powered Scaling Infrastructure
+**Hyperlane Powered Scaling Infrastructure**
 
 - Use Hyperlane to navigate between networks and create scalability focused infrastructure.
 - While there is no specific form these should take, here are some ideas:
